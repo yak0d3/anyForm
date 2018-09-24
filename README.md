@@ -61,4 +61,4 @@ An error has occurred and you have no clue what caused it? **Don't panic,** as m
 -   ##### [](https://github.com/yak0d3/dDumper#i-do-not-take-responsibility-for-any-illegal-usage)I do not take responsibility for any illegal usage.
 ## License
 
-[![anyForm MIT License](https://image.ibb.co/hWqzp9/license.png)]
+![anyForm MIT License](https://image.ibb.co/hWqzp9/license.png)
