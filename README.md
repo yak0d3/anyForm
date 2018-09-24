@@ -4,7 +4,7 @@
 
 > anyForm is a lightweight form brute-forcing tool that can break any form that contains a username and a password fields.
 
-At this time, anyForm is still at early stage development, functionalities are very limited but they are good enough for classical web forms.** 
+At this time, anyForm is still at early stage development, functionalities are very limited but they are good enough for classical web forms.
 
 ![anyForm main display - screenshot1](https://preview.ibb.co/d5KLwp/anyform_main_display.png)
 
