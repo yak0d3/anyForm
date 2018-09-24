@@ -53,7 +53,7 @@ This version of anyForm is very basic, later version will have better functional
  Do you have a new idea? Or you think anyForm is missing something? Simply make a new pull request or contact me @ contact.raedyak@gmail.com to suggest changes.
 
 ## Report A Bug
-An error has occurred and you have no clue what caused it? **Don't panic,** as mentioned above anyForm is still in early stage development, errors and bugs might occur, just make a new issue or contact me @ contact.raedyak@gmail.com for bug report.
+An error has occurred and you have no clue what caused it? **Don't panic,** as mentioned above anyForm is still at early stage development, errors and bugs might occur, just make a new issue or contact me @ contact.raedyak@gmail.com for bug report.
 # Legal Disclaimer
 
 -   ##### [](https://github.com/yak0d3/dDumper#i-do-not-take-any-responsibility-and-i-am-not-liable-for-any-damage-caused-through-the-use-of-this-product)I do not take any responsibility and I am not liable for any damage caused through the use of this product.
