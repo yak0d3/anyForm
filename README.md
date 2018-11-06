@@ -1,6 +1,7 @@
 
 
-# anyForm
+# anyForm ![Language](https://img.shields.io/badge/Language-Perl-blue.svg) ![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/yak0d3/anyForm.svg?colorB=brightgreen)
+
 
 > anyForm is a lightweight form brute-forcing tool that can break any form that contains a username and a password fields.
 
