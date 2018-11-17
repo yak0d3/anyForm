@@ -8,18 +8,18 @@
 #   \__,_|_| |_|\__, \_| \___/|_|  |_| |_| |_|         	#
 #                __/ |                                 	#
 #               |___/                                  	#
-#                                __   _____				#
+#                                __   _____		#
 #                               /  | |  _  |           	#
 #                        __   __`| | | |/' |           	#
 #                        \ \ / / | | |  /| | 	       	#
 #                         \ V / _| |_\ |_/ /           	#
 #                          \_/  \___(_)___/            	#
 #                                                      	#
-#                             					       	#
-# Coded by: yak0d3       						       	#
+#                             				#
+# Coded by: yak0d3       				#
 # Github: https://github.com/yak0d3/anyForm            	#
-# Version: 1.0   			    				       	#
-# License: MIT											#
+# Version: 1.0   			    		#
+# License: MIT						#
 #########################################################
 use Data::Dumper qw(Dumper);
 use LWP::UserAgent;
@@ -34,7 +34,7 @@ use utf8;
 
 #Configuration
 
-$formUrl = 'http://localhost/form.php';
+$formUrl = '';
 $opt     = '';
 $elems   = 0;
 $config  = 0;
