@@ -33,7 +33,7 @@ use String::Util 'trim';
 use utf8;
 #Configuration
 
-$formUrl = 'http://localhost/form.php';
+$formUrl = '';
 $opt = '';
 $elems = 0;
 $config = 0;
